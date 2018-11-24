@@ -25,7 +25,7 @@ public class Content implements Serializable {
 
 	private String repo2_0;
 	
-	private String repo3_0;
+	private int num3_0;
 
 	
 	
