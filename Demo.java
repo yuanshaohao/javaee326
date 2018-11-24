@@ -22,5 +22,10 @@ public class Content implements Serializable {
     private String pic;
 	
 	
+
 	private String status_repo222222;
+
+	
+	private String status_repo1111111111111111111111
+
 }
