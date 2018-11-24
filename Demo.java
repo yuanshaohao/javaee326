@@ -23,9 +23,9 @@ public class Content implements Serializable {
 	
 	
 
-	private String status_repo222222;
+	private String repo2_0;
 
 	
-	private String status_repo1111111111111111111111
+	
 
 }
